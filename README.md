@@ -1,7 +1,9 @@
 Netflix Data Analysis Dashboard
+
 🎯 Project Motivation
 
 Netflix is not just a streaming platform it’s a data-driven company. With thousands of movies and TV shows, I wanted to explore how Netflix’s content is distributed, what kind of ratings dominate, how content evolved over time, and which countries/genres are most influential.
+
 
 I built this project to:
 
@@ -12,6 +14,7 @@ Demonstrate how data can tell a story about global entertainment trends.
 Practice designing professional dashboards in Power BI.
 
 This project is a blend of curiosity + analytics—turning raw data into actionable insights.
+
 
 📂 Dataset & Preparation
 
@@ -31,6 +34,7 @@ Duration (minutes/seasons)
 
 Genres (listed_in)
 
+
 Steps I performed:
 
 Imported dataset into Power BI.
@@ -40,6 +44,7 @@ Cleaned data (handled nulls, standardized date formats).
 Created calculated fields where needed (e.g., separating Movies vs TV Shows).
 
 Built visualizations and combined them into an interactive dashboard.
+
 
 📊 Analysis & Key Findings
 
@@ -75,6 +80,7 @@ Strong dominance of movies released post-2000.
 
 Shift in focus towards TV Originals after 2015.
 
+
 📊 Dashboard Highlights
 
 The Power BI dashboard (see netflix.pdf) includes:
@@ -89,6 +95,7 @@ The Power BI dashboard (see netflix.pdf) includes:
 
 📌 Genres across countries (global diversity view)
 
+
 🛠️ Tools & Skills Used
 
 Power BI Desktop → Interactive dashboarding
@@ -98,6 +105,7 @@ Excel / CSV → Data preparation
 DAX Functions → Custom calculations in Power BI
 
 GitHub → Documentation & version control
+
 
 🚀 What This Project Demonstrates About Me
 
@@ -109,6 +117,7 @@ I apply analytical thinking to uncover patterns and trends in large datasets.
 
 I can connect technical skills (Power BI, Excel, SQL basics) with business insights.
 
+
 📌 Future Scope
 
 Add forecasting models to predict upcoming trends.
@@ -118,6 +127,7 @@ Perform sentiment analysis on Netflix titles/cast using Python.
 Build a web-based interactive dashboard using Python (Streamlit/Dash).
 
 Combine Netflix data with IMDb ratings for deeper insights.
+
 
 🙌 Acknowledgment
 
