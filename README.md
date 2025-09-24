@@ -1,6 +1,7 @@
 Netflix Data Analysis Dashboard
+
 🎯 Project Motivation
-Netflix is not just a streaming platform—it’s a data-driven company. With thousands of movies and TV shows, I wanted to explore how Netflix’s content is distributed, what kind of ratings dominate, how content evolved over time, and which countries/genres are most influential.
+Netflix is not just a streaming platform it’s a data-driven company. With thousands of movies and TV shows, I wanted to explore how Netflix’s content is distributed, what kind of ratings dominate, how content evolved over time, and which countries/genres are most influential.
 I built this project to:
 Strengthen my data analytics skills (data cleaning, transformation, visualization).
 Demonstrate how data can tell a story about global entertainment trends.
